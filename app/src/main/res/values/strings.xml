@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Practica3</string>
+    <string-array name="alcaldia_array">
+        <item>AZCAPOTZALCO</item>
+        <item>COYOACÁN</item>
+        <item>CUAJIMALPA DE MORELOS</item>
+        <item>GUSTAVO A. MADERO</item>
+        <item>IZTACALCO</item>
+        <item>IZTAPALAPA</item>
+        <item>LA MAGDALENA CONTRERAS</item>
+        <item>MILPA ALTA</item>
+        <item>ÁLVARO OBREGÓN</item>
+        <item>TLÁHUAC</item>
+        <item>TLALPAN</item>
+        <item>XOCHIMILCO</item>
+        <item>BENITO JUÁREZ</item>
+        <item>CUAUHTÉMOC</item>
+        <item>MIGUEL HIDALGO</item>
+        <item>VENUSTIANO CARRANZA</item>
+    </string-array>
+    <string name="date_format">dd/mm/yyyy</string>
+    <string name="time_format">hh:mm</string>
+</resources>
